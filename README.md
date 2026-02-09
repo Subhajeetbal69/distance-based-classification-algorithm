@@ -33,18 +33,6 @@ This is conceptually similar to the **K-Nearest Neighbors (KNN)** algorithm, dep
 
 ---
 
-## 📏 Distance Metrics
-
-The following distance metrics can be used:
-
-| Metric                 | Formula      | Use Case                    |       |                      |
-| ---------------------- | ------------ | --------------------------- | ----- | -------------------- |
-| **Euclidean Distance** | √Σ(xᵢ − yᵢ)² | Standard geometric distance |       |                      |
-| **Manhattan Distance** | Σ            | xᵢ − yᵢ                     |       | Grid-based movement  |
-| **Minkowski Distance** | (Σ           | xᵢ − yᵢ                     | ᵖ)¹/ᵖ | Generalized distance |
-
----
-
 ## 🗂 Project Structure
 
 distance-based-classification-algorithm/
@@ -60,6 +48,7 @@ distance-based-classification-algorithm/
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/Subhajeetbal69/distance-based-classification-algorithm.git
+
 cd distance-based-classification-algorithm
 
 
