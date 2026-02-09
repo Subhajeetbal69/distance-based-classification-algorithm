@@ -36,6 +36,7 @@ This is conceptually similar to the **K-Nearest Neighbors (KNN)** algorithm, dep
 ## 🗂 Project Structure
 
 distance-based-classification-algorithm/
+
 │
 ├── knn.ipynb        # Jupyter notebook containing implementation
 
