@@ -38,8 +38,11 @@ This is conceptually similar to the **K-Nearest Neighbors (KNN)** algorithm, dep
 distance-based-classification-algorithm/
 │
 ├── knn.ipynb        # Jupyter notebook containing implementation
+
 ├── report.txt       # Project explanation and observations
+
 └── README.md        # Project documentation
+
 
 ---
 
